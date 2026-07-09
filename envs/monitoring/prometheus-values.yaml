@@ -1,0 +1,5 @@
+kube-prometheus-stack:
+  grafana:
+    adminPassword: "root"
+    service:
+      type: NodePort
